@@ -15,4 +15,4 @@ I love MusicBee, but at times, its theming engine is not particularly user-frien
 [blog]:     https://albertnis.com/posts/darkmod/
 [install]:  http://getmusicbee.com/
 [screenshot]: http://i.imgur.com/gFcEPKW.png
-[project]:  https://albertnis.com/darkmod/
+[project]:  https://darkmod.netlify.com/
