@@ -1,5 +1,5 @@
 # DarkMOD
-*A dynamic MusicBee skin using PHP*
+*A dynamic MusicBee skin using JavaScript*. Ported from the [original PHP project](https://github.com/albertnis/darkmod).
 
 [![Project link][screenshot]][project]
 
